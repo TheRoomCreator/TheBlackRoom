@@ -121,7 +121,7 @@ echo (numbers don't move!).
 echo.
 echo Don't use spaces, use _. All the letter need to be in lowercase.
 echo In the Title of this window, have a hint. Good luck in these 20 puzzles.
-echo By: Jormun??????
+echo By: ?????????????
 echo version 0.12 (4/20 puzzles)
 echo.
 set /p ans=Answer:
