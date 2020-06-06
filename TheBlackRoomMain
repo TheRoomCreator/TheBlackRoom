@@ -1,0 +1,277 @@
+::The Black Room, a puzzle game by Jörmungandrr.
+::The game are on the version 0.12
+::0.12 Update:
+::+4 Puzzle Rooms
+::if you want to play this game...
+::Paste the code on Notepad and save as a .bat file.
+::Good luck.
+@echo off
+Color 0B
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+:R1
+Title [1.C. Cipher]
+cls
+echo 1.
+echo -4x+7=15 is the code to:
+echo jvvru://ogic.pb/hkng/34ykES6d#VaeNLMLIjyACZKjP48NqvTe3RAMAbs8xA95mlKE37_8
+echo (numbers don't move!).
+echo.
+echo Don't use spaces, use _. All the letter need to be in lowercase.
+echo In the Title of this window, have a hint. Good luck in these 20 puzzles.
+echo By: Jormun??????
+echo version 0.12 (4/20 puzzles)
+echo.
+set /p ans=Answer:
+if %ans%==on_your_eyes (goto R2) else goto R1
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+:R2
+Title [2.N]
+cls
+echo 2.
+echo NOT SO fuc*ing HARD
+echo The Society need silence.
+echo Listen... the sound of silence.
+echo.
+set /p ans2=Answer:
+if %ans2%==national_society_for_histotechnology (goto R3) else goto R2
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+:R3
+Title [3.The mount]
+cls
+echo 3.
+echo 1- 6893m, 2- ????m
+echo.
+set /p ans3=Answer:
+if %ans3%==5895m (goto R4) else goto R3
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+::don't open these codes. Please, play the game without look here!
+:R4
+Title [4.Hidden in The These PuzzleS]
+cls
+echo Use the window titles to proceed.
+echo title: 4.://(title 1.)(title 2.)(title 3.).(the key)
+echo.
+set /p ans4=Answer:
+if %ans4%==https://cnt.flavio_martinez (goto R5) else goto R4
+:R5
+cls
+echo The 0.12 ends here, thank you for playing this game. More in 04/02/2015.
+echo Contact us: officialtheblackroom.main@gmail.com
+pause
+exit /b
